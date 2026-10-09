@@ -1,0 +1,1 @@
+window.TNTT_CONFIG = { version: "2.0.0", appsScriptUrl: "https://script.google.com/macros/s/AKfycbxWWcMKjV9n5i9nOVZyf--46XaWIRLEO7aA5j0fVL5xJJ4vNej5suEpeci_GwTxE6iE/exec", googleClientId: "557989447516-g06q8siub3dquv3ff8s6eaau343dr86o.apps.googleusercontent.com" };
